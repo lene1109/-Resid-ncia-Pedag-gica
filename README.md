@@ -1,4 +1,6 @@
-# <span style="color: #ff69b4;">Residência Pedagógica</span>
+<p align="center">
+  <span style="color: #ff69b4; font-size: 24px;">RESIDÊNCIA PEDAGÓGICA</span>
+</p>
 ## <span style="color: #ff69b4;">Escola Estadual Ensino Médio Antonio Lemos</span>
 ## <span style="color: #ff69b4;">Preceptora: ALessandra Cavalcante Bitar </span>
 
