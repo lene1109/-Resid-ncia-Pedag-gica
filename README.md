@@ -13,9 +13,9 @@ A residência pedagógica é um programa de formação prática em que estudante
 - Fornecer orientação e acompanhamento por parte de profissionais da educação.
 - Desenvolver habilidades pedagógicas e preparar os futuros professores para os desafios do ensino.
 
-## Como Contribuir
+## Objetivos e Benefícios:
 
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests). Sua contribuição é bem-vinda!
+A residência pedagógica tem como principal objetivo aprimorar a qualidade da educação, formando professores mais bem preparados e reflexivos. Além disso, ela enriquece o ambiente educacional nas escolas, trazendo novas perspectivas e abordagens para o processo de ensino e aprendizagem.
 
 ## Licença
 
