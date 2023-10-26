@@ -1,6 +1,6 @@
 # <span style="color: #ff69b4;">Residência Pedagógica</span>
 
-Residência Pedagógica: Integrando Teoria e Prática na Formação de Professores
+ Integrando Teoria e Prática na Formação de Professores
 
 ![Imagem ilustrativa](link_para_sua_imagem.png)
 
