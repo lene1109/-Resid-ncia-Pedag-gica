@@ -2,7 +2,7 @@
 
  Integrando Teoria e Prática na Formação de Professores
 
-![Imagem ilustrativa]([link_para_sua_imagem.png](https://github.com/lene1109/Residencia-Pedagogica/blob/a6a2e973f63889f5e33e1479afcedc86dc5439ab/Imagens/WhatsApp%20Image%202023-10-13%20at%2018.53.38.jpg))
+![Imagem ilustrativa](https://github.com/lene1109/Residencia-Pedagogica/blob/a6a2e973f63889f5e33e1479afcedc86dc5439ab/Imagens/WhatsApp%20Image%202023-10-13%20at%2018.53.38.jpg)
 
 ## O que é a Residência Pedagógica?
 
