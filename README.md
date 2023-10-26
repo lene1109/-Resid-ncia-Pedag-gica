@@ -29,7 +29,7 @@ Para as aulas de Geografia e artes lecionadas no ano de 2022/2023 utilizamos div
 
 Durante essas reuniões, os participantes, têm a oportunidade de discutir, planejar e refletir sobre as práticas pedagógicas.
 <p align="center">
-  <img src="Imagens/WhatsApp Image 2023-09-13 at 20.44.36.jpg" width="400" height="300">
+  <img src="Imagens/WhatsApp Image 2023-09-13 at 20.44.36.jpg" width="800" height="300">
 </p>
 
 
