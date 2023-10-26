@@ -28,9 +28,14 @@ Para as aulas de Geografia e artes lecionadas no ano de 2022/2023 utilizamos div
 ## Reuniões Online
 
 Durante essas reuniões, que foram realizadas online com a nossa preceptora Professora Alessandra Bitar, os participantes, discentes do curso de Licenciatura em Informática do Instituto Federal do Pará campus Castanhal, incluindo Elcilene Aragão, Jéssica Marinho, Tainá Miranda, Abimaelson Souza e Joelma Tavares, têm a oportunidade de discutir, planejar e refletir sobre as práticas pedagógicas.
-<p align="center">
-  <img src="Imagens/WhatsApp Image 2023-09-13 at 20.44.36.jpg" width="400" height="800">
-</p>
+
+<table>
+  <tr>
+    <td><img src="Imagens/WhatsApp Image 2023-09-13 at 20.44.36.jpg" width="400" height="800"></td>
+    <td><img src="URL_IMAGEM_2" width="300" height="200"></td>
+  </tr>
+</table>
+
 
 
 
