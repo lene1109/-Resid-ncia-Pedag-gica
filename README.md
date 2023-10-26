@@ -21,9 +21,9 @@ A residência pedagógica é um programa de formação prática em que estudante
 
 A residência pedagógica tem como principal objetivo aprimorar a qualidade da educação, formando professores mais bem preparados e reflexivos. Além disso, ela enriquece o ambiente educacional nas escolas, trazendo novas perspectivas e abordagens para o processo de ensino e aprendizagem.
 
-## Licença
+## Introdução
 
-Este projeto está sob a licença XYZ. Veja o arquivo [LICENSE](LICENSE.md) para obter detalhes.
+Para as aulas de Geografia e artes lecionadas no ano de 2022/2023 utilizamos diversas ferramentas que acreditamos que tornariam as aulas mais dinâmicas e ricas como por exemplo o Scratch, plickers e kahoot, ambas as ferramentas eram utilizadas para a criação e apresentação de atividades em sala de aula, com o auxílio de celulares, notebook e Datashow, Vale ressaltar que essas ferramentas eram utilizadas seguindo todo um planejamento prévio, com intuito de deixar as aulas mais atrativas, divertidas e descontraídas, fazendo com que tivesse a interação do aluno e professor em sala de aula.
 
 ---
 
