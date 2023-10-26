@@ -43,7 +43,7 @@ Durante essas reuniões, que foram realizadas online com a nossa preceptora Prof
 
 Esses artigos são apenas uma seleção de nossa leitura, que abrange vários outros materiais relacionados ao nosso projeto ou pesquisa.
 
-##Experiência na sala de aula com jogos
+##  Experiência na sala de aula com jogos
 * Scratch
 ---
 
