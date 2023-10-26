@@ -36,7 +36,10 @@ Durante essas reuniões, que foram realizadas online com a nossa preceptora Prof
   </tr>
 </table>
 
+## Leituras e Análise de artigos
 
+Jogos Digitais para Educação: Revolução, Aprendizado e Cidadania" - Ismar de Oliveira Soares 
+Jogos digitais educacionais, práticas interdisciplinares e pensamento computacional: relações possíveis - Julio Cesar Naves Fernandes e Ismar Frango Silveira (FERNANDES, J. C. N.; SILVEIRA, I. F.)
 
 
 
