@@ -31,8 +31,8 @@ Durante essas reuniões, que foram realizadas online com a nossa preceptora Prof
 
 <table>
   <tr>
-    <td><img src="Imagens/WhatsApp Image 2023-09-13 at 20.44.36.jpg" width="400" height="800"></td>
-    <td><img src="Imagens/WhatsApp Image 2023-10-13 at 18.53.00.jpg" width="300" height="200"></td>
+    <td><img src="Imagens/WhatsApp Image 2023-09-13 at 20.44.36.jpg" width="400" height="700"></td>
+    <td><img src="Imagens/WhatsApp Image 2023-10-13 at 18.53.00.jpg" width="400" height="700"></td>
   </tr>
 </table>
 
