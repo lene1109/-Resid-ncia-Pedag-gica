@@ -44,15 +44,12 @@ Durante essas reuniões, que foram realizadas online com a nossa preceptora Prof
 Esses artigos são apenas uma seleção de nossa leitura, que abrange vários outros materiais relacionados ao nosso projeto ou pesquisa.
 
 ##  Experiência na sala de aula com jogos
-* Scratch
-  
-  Capítulo 5: Ao iniciar o jogo tem um botão capítulo 5, ao clicar o usuário será direcionado a uma aula incrível sobre o mundo das redes
-  
-  Ao iniciar o jogo usuário tem um botão jogar, ao clicar nesse botão o usuário será direcionado a outra tela com três jogos.
- 
+![Ícone do Scratch](URL_DO_ICONE) Scratch
 
   <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Utilizando o jogo feito no Scracth, para os alunos do Ensino Médio">
 
+Foram criados três jogos e uma aula de Geografia sobre o tema "Mundo das redes geográficas". O objetivo da aula foi apresentar aos alunos a importância das redes no mundo atual, abrangendo tanto as redes sociais quanto as redes geográficas, como as estradas, ferrovias e rotas de comércio. Utilizamos imagens geradas na inteligência artificial BlueWillow.
+  
 ---
 
 **Nota:** Este é apenas um exemplo de como você pode formatar um README.md. Falta inserir mais conteudo
