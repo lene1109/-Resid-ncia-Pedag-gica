@@ -51,7 +51,7 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
   Ao iniciar o jogo usuário tem um botão jogar, ao clicar nesse botão o usuário será direcionado a outra tela com três jogos.
  
 
-  <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Descrição da imagem">
+  <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Utilizando o jogo feito no Scracth, para os alunos do Ensino Médio">
 
 ---
 
