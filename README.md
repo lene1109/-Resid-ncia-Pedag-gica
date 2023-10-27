@@ -8,6 +8,7 @@
 
 ![Imagem ilustrativa](https://github.com/lene1109/Residencia-Pedagogica/blob/a6a2e973f63889f5e33e1479afcedc86dc5439ab/Imagens/WhatsApp%20Image%202023-10-13%20at%2018.53.38.jpg)
 
+
 ## O que é a Residência Pedagógica?
 
 A residência pedagógica é um programa de formação prática em que estudantes de licenciatura ou pedagogia têm a oportunidade de se envolver diretamente no ambiente escolar. Colocados em escolas de ensino básico, eles trabalham sob a supervisão de professores experientes, participando ativamente do processo de ensino e aprendizagem. Esse programa visa:
@@ -45,7 +46,10 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
 
 ##  Experiência na sala de aula com jogos
 
-![Ícone Scratch](Imagens/icons8-arranhar-48.png) **Scratch**
+<div style="display: flex; align-items: center;">
+  <img src="Imagens/icons8-arranhar-48.png" alt="Ícone Scratch" style="width: 32px; height: 32px;">
+  <span style="margin-left: 8px; font-weight: bold;">Scratch</span>
+</div>
 
 
   <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Utilizando o jogo feito no Scracth, para os alunos do Ensino Médio">
