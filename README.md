@@ -44,7 +44,8 @@ Durante essas reuniões, que foram realizadas online com a nossa preceptora Prof
 Esses artigos são apenas uma seleção de nossa leitura, que abrange vários outros materiais relacionados ao nosso projeto ou pesquisa.
 
 ##  Experiência na sala de aula com jogos
-![Ícone Scratch](Imagens/icons8-arranhar-96.png) Scratch
+
+![Ícone Scratch](Imagens/icons8-arranhar-96.png) **Scratch**
 
 
   <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Utilizando o jogo feito no Scracth, para os alunos do Ensino Médio">
