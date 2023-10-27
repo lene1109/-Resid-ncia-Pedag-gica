@@ -45,6 +45,9 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
 
 ##  Experiência na sala de aula com jogos
 * Scratch
+  Capítulo 5: Ao iniciar o jogo tem um botão capítulo 5, ao clicar o usuário será direcionado a uma aula incrível sobre o mundo das redes 
+  Ao iniciar o jogo usuário tem um botão jogar, ao clicar nesse botão o usuário será direcionado a outra tela com três jogos.
+
 ---
 
 **Nota:** Este é apenas um exemplo de como você pode formatar um README.md. Falta inserir mais conteudo
