@@ -47,4 +47,4 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
 * Scratch
 ---
 
-**Nota:** Este é apenas um exemplo de como você pode formatar um README.md. Sinta-se à vontade para personalizá-lo e adicionar mais informações relevantes para o seu projeto.
+**Nota:** Este é apenas um exemplo de como você pode formatar um README.md. Falta inserir mais conteudo
