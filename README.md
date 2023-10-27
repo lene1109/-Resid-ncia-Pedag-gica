@@ -52,6 +52,7 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
 </div>
 
 
+
   <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Utilizando o jogo feito no Scracth, para os alunos do Ensino Médio">
 
 Foram criados três jogos e uma aula de Geografia sobre o tema "Mundo das redes geográficas". O objetivo da aula foi apresentar aos alunos a importância das redes no mundo atual, abrangendo tanto as redes sociais quanto as redes geográficas, como as estradas, ferrovias e rotas de comércio. Utilizamos imagens geradas na inteligência artificial BlueWillow.
