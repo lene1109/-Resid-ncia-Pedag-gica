@@ -49,8 +49,9 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
   Capítulo 5: Ao iniciar o jogo tem um botão capítulo 5, ao clicar o usuário será direcionado a uma aula incrível sobre o mundo das redes
   
   Ao iniciar o jogo usuário tem um botão jogar, ao clicar nesse botão o usuário será direcionado a outra tela com três jogos.
-  ![Imagem ilustrativa](Imagens/IMG_20230508_160640099 (1).jpg)
+ 
 
+<img src="Imagens/IMG_20230508_160640099 (1).jpg" width="300" height="200" alt="Descrição da imagem">
 
 ---
 
