@@ -51,7 +51,7 @@ Esses artigos são apenas uma seleção de nossa leitura, que abrange vários ou
   <span style="margin-left: 8px; font-weight: bold;">Scratch</span>
 </div>
 
-
+<br>
 
   <img src="Imagens/IMG_20230508_160640099 (1).jpg" width="500" height="400" alt="Utilizando o jogo feito no Scracth, para os alunos do Ensino Médio">
 
