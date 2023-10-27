@@ -12,9 +12,9 @@
 
 A residência pedagógica é um programa de formação prática em que estudantes de licenciatura ou pedagogia têm a oportunidade de se envolver diretamente no ambiente escolar. Colocados em escolas de ensino básico, eles trabalham sob a supervisão de professores experientes, participando ativamente do processo de ensino e aprendizagem. Esse programa visa:
 
-- Proporcionar aos futuros professores a oportunidade de vivenciar a realidade da sala de aula.
-- Integrar a teoria aprendida na universidade com a prática pedagógica em situações reais.
-- Fornecer orientação e acompanhamento por parte de profissionais da educação.
+- Proporcionar aos futuros professores a oportunidade de vivenciar a realidade da sala de aula;
+- Integrar a teoria aprendida na universidade com a prática pedagógica em situações reais;
+- Fornecer orientação e acompanhamento por parte de profissionais da educação;
 - Desenvolver habilidades pedagógicas e preparar os futuros professores para os desafios do ensino.
 
 ## Objetivos e Benefícios:
