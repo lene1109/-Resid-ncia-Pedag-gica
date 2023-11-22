@@ -59,4 +59,4 @@ Foram criados três jogos e uma aula de Geografia sobre o tema "Mundo das redes 
   
 ---
 
-**Nota:** Este é apenas um exemplo de como você pode formatar um README.md. Falta inserir mais conteudo
+**Nota:**  Falta inserir mais conteudo
